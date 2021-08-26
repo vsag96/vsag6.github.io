@@ -22,16 +22,16 @@ baseurl:
 repository: SaswatPadhi/saswatpadhi.github.io
 permalink:  pretty
 
-title:      'Saswat Padhi'
-timezone:   'America/New_York'
+title:      'Vineeth Sagar'
+timezone:   'America/Chicago'
 
 author:
-  name:     'Saswat Padhi'
+  name:     'Vineeth Sagar Thapeta'
   link:     https://saswat.padhi.me
   photo:
     alt:    'Avatar from GitHub'
-    remote: https://avatars3.githubusercontent.com/u/1577944
-#    local: assets/img/photo.jpg
+      #remote: https://avatars3.githubusercontent.com/u/1577944
+    local: assets/img/photos/headshot.jpeg
 
 github: [metadata]
 
@@ -73,28 +73,19 @@ layout:
 
 topmenu:
   Resume:
-    updates:
-      local: updates.md
     cv:
       local: CV.md
     LinkedIn:
-      url:   https://www.linkedin.com/in/saswatpadhi
+      url: https://www.linkedin.com/in/vineeth-sagar-6186a8118/
       title: LinkedIn
       icon:  fab fa-linkedin-in
   Main:
     publications:
       local: publications.md
-    slides:
-      local: slides.md
     GitHubProfile:
-      url:   https://github.com/SaswatPadhi
+      url:   https://github.com/vsag96
       title: GitHub
       icon:  fab fa-github
-  Misc:
-    blog:
-      local: blog.md
-    other:
-      local: personal.md
 
 collections:
   blogposts:

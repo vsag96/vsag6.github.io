@@ -16,17 +16,13 @@ title: Home
 #### <i class='far fa-fw fa-sm fa-paper-plane'></i> Contact Me
 
 <p class='indented' markdown='1'>
-    <em>Office</em>: &nbsp; [BOS17 - Amazon], Boston, MA
-    <br>
-    <em>Email (Work)</em>: &nbsp; saspadhi <i class='fas fa-fw fa-sm fa-at'></i> amazon <i class='fas fa-fw fa-xs fa-circle' style='font-size: 0.5em; vertical-align: 25%;'></i> com
-    <br>
-    <em>Email (Private)</em>: &nbsp; saswatpadhi <i class='fas fa-fw fa-sm fa-at'></i> protonmail <i class='fas fa-fw fa-xs fa-circle' style='font-size: 0.5em; vertical-align: 25%;'></i> com
+    <em>Email</em>: &nbsp; vsag96 <i class='fas fa-fw fa-sm fa-at'></i> gmail <i class='fas fa-fw fa-xs fa-circle' style='font-size: 0.5em; vertical-align: 25%;'></i> com
 </p>
 
 #### <i class='fas fa-fw fa-sm fa-glasses'></i> Research Interests
 
 <p>
-    Programming Languages, &nbsp; Software Verification, &nbsp; Statistical Learning, &nbsp; Program Synthesis
+    Distributed Systems, &nbsp; Programmable Networks
 </p>
 
 </div>
@@ -37,20 +33,20 @@ title: Home
 
 <div class='pure-g' style='text-align: justify; margin-top: -1em'>
 <div class='pure-u-1 pure-u-md-22-24' markdown='1'>
+I am a Masters student at the University of Illinois at Chicago (UIC). I am
+fortunate to be advised by two amazing people [Brent E.
+Stephens] and [Balajee
+Vamanan].  I am currently working on
+designing new primitives which help in providing isolation inside the network.
 
-I am an <span class='color-medium-accent'>applied scientist</span> in the proof platforms (P2) team
-within the [Automated Reasoning Group][ARG] at [Amazon Web Services][AWS].
-I am currently working on adding unbounded proof support to our verification infrastructure.
+I am interested in <span class='color-highlight'>offloading the endhost
+functionality to programmable NICs (Network Interface Cards) and
+Switches</span>, which I believe will help in realizing broader performance
+goals in Computer Networks and Distributed systems.
 
-Before joining AWS, I graduated with a Ph.D. in [CS][CS@UCLA] from [UCLA] in 2020,
-and a B.Tech. (Hons.) in [CSE][CS@IITB] from [IIT Bombay] in 2014.
-
-I am interested in all aspects of
-<span class='color-highlight'>designing and implementing high-performance systems
-that have strong correctness guarantees</span>.
-My PhD research was focused around using program synthesis and statistical learning techniques
-to aid development of formally verified software.
-
+Before joining UIC I worked as a Software Engineer for 18 months at
+[Move78](https://move78ai.com/contact.php) where I helped in designing and
+deploying the company's early products.
 </div>
 </div>
 

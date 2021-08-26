@@ -1,43 +1,20 @@
 {% comment %}             COLLABORATORS
 {% endcomment %}
-[Abhishek Udupa]:         https://abhishekudupa.github.io
-[Aditya Nori]:            https://www.microsoft.com/en-us/research/people/adityan
-[Adnan Darwiche]:         http://web.cs.ucla.edu/~darwiche/
-[Amey Karkare]:           https://www.cse.iitk.ac.in/users/karkare
-[Andrew Reynolds]:        http://homepage.divms.uiowa.edu/~ajreynol/
-[Ben Zorn]:               https://www.microsoft.com/en-us/research/people/zorn
-[Chenglong Wang]:         https://chenglongwang.org/
-[Dana Fisman]:            https://www.cs.bgu.ac.il/~dana
-[David Walker]:           https://www.cs.princeton.edu/~dpw
-[Elizabeth Polgreen]:     https://polgreen.github.io/
-[Jens Palsberg]:          https://web.cs.ucla.edu/~palsberg/
-[Kevin Michael Ellis]:    https://web.mit.edu/ellisk/www
-[Marc Brockschmidt]:      https://www.microsoft.com/en-us/research/people/mabrocks
-[Michael Whalen]:         https://www-users.cs.umn.edu/~mwwhalen/
-[Miryung Kim]:            http://web.cs.ucla.edu/~miryung/
-[Mukund Raghothaman]:     https://r-mukund.github.io
-[Oleksandr Polozov]:      https://www.microsoft.com/en-us/research/people/polozov
-[Prateek Jain]:           https://www.prateekjain.org
-[Rajeev Alur]:            https://www.cis.upenn.edu/~alur
-[Rahul Sharma]:           https://www.microsoft.com/en-us/research/people/rahsha
-[Rishabh Singh]:          https://rishabhmit.bitbucket.io
-[Sanjit Seshia]:          https://people.eecs.berkeley.edu/~sseshia
-[Sumit Gulwani]:          https://www.microsoft.com/en-us/research/people/sumitg
-[Todd Millstein]:         https://web.cs.ucla.edu/~todd
-[Uday Khedker]:           https://www.cse.iitb.ac.in/~uday
-[Wolf-Tilo Balke]:        http://www.ifis.cs.tu-bs.de/staff/balke
+[Mojtaba Malekpourshahraki]:          https://www.cs.uic.edu/~mmalekpo/
+[Komal Shinde]:                       https://www.linkedin.com/in/komalshindeuic
+[Darius Grassi]:                      https://dgrassi2.people.uic.edu/
 
+{% comment %}  ADVISORS
+{% endcomment %}
+[Brent E. Stephens]:              https://cs.utah.edu/~brent/
+[Balajee Vamanan]:                https://www.cs.uic.edu/~balajee/
 
 {% comment %}             SCHOOLS
 {% endcomment %}
-[IIT Bombay]:             http://www.iitb.ac.in
-[TU-Braunschweig]:        https://www.tu-braunschweig.de
-[UCLA]:                   https://ucla.edu
-[Princeton University]:   https://www.princeton.edu/
-
+[UIC]:             https://www.uic.edu/
+[SNU]: https://www.snu.edu.in
 
 {% comment%}              GROUPS
-{% endcomment %}
 [ARG]:                    https://aws.amazon.com/security/provable-security/
 [AWS]:                    https://aws.amazon.com/
 [CS@IITB]:                https://www.cse.iitb.ac.in
@@ -53,10 +30,10 @@
 [RiSE]:                   https://www.microsoft.com/en-us/research/group/research-in-software-engineering-rise
 [SoCalPLS]:               https://socalpls.github.io
 [SyGuS]:                  https://www.sygus.org
+{% endcomment %}
 
 
 {% comment %}             TOOLS
-{% endcomment %}
 [CertiKOS]:               http://flint.cs.yale.edu/certikos
 [Coq]:                    https://coq.inria.fr
 [CVC4]:                   https://cvc4.cs.stanford.edu/web/
@@ -65,17 +42,21 @@
 [VeLLVM]:                 http://www.cis.upenn.edu/~stevez/vellvm
 [VST]:                    https://vst.cs.princeton.edu
 [Why3]:                   http://why3.lri.fr
+{% endcomment %}
 
 
 {% comment %}             AWARDS, GRANTS etc.
-{% endcomment %}
 [CAV Travel Grant]:       http://i-cav.org/2019/fellowships/
 [MSR fellowship]:         https://www.microsoft.com/en-us/research/academic-program/phd-fellowship-program
 [UCLA DYF]:               https://grad.ucla.edu/funding/financial-aid/funding-for-continuing-students/dissertation-year-fellowship
+{% endcomment %}
 
 
 {% comment %}             COMPETITIONS, CONFERENCES etc.
 {% endcomment %}
+[SOSR 2021]:              https://conferences.sigcomm.org/sosr/2021/program.html
+[EuroSys 2021]:           https://sysartifacts.github.io/eurosys2021/committee.html
+{% comment %}
 [CAV 2019]:               http://i-cav.org/2019
 [CAV 2021]:               http://i-cav.org/2021
 [CC 2019]:                https://cc-conference.github.io/19
@@ -91,9 +72,10 @@
 [SyGuS-Comp 2018]:        https://www.sygus.org/comp/2018
 [SyGuS-Comp 2019]:        https://www.sygus.org/comp/2019
 [SYNT 2021]:              https://workshops.inf.ed.ac.uk/SYNT2021/
+{% endcomment %}
 
 
 {% comment %}             BOOKS, JOURNALS etc.
-{% endcomment %}
 [LNCS]:                   https://www.springer.com/in/computer-science/lncs
 [PACMPL]:                 https://pacmpl.acm.org
+{% endcomment %}
