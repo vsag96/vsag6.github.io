@@ -11,13 +11,13 @@ title: Publications
 
 <div class='pure-g instructions'>
   <div class='pure-u-1-3'>
-    <a href='https://scholar.google.com/citations?user=42ZJT4wAAAAJ&hl=en' target='_blank'><i class='fas fa-fw fa-lg fa-user-graduate'></i> Google Scholar</a>
+    <a href='#' target='_blank'><i class='fas fa-fw fa-lg fa-user-graduate'></i> Google Scholar</a>
   </div>
   <div class='pure-u-1-3'>
-    <a href='https://dblp.uni-trier.de/pers/hd/p/Padhi:Saswat' target='_blank'><i class='fas fa-fw fa-lg fa-book'></i> DBLP Entry</a>
+    <a href='#' target='_blank'><i class='fas fa-fw fa-lg fa-book'></i> DBLP Entry</a>
   </div>
   <div class='pure-u-1-3'>
-    <a onclick='toggle_tweets()'><i class='fab fa-fw fa-lg fa-twitter'></i> Paper Summaries</a>
+    <a onclick='#'><i class='fab fa-fw fa-lg fa-twitter'></i> Paper Summaries</a>
   </div>
 </div>
 
