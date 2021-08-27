@@ -17,9 +17,10 @@ sass:
 
 ## Globals
 
-url:        https://saswat.padhi.me
+domain: vsag96@github.io
+url:        https://vsag96.github.io
 baseurl:
-repository: SaswatPadhi/saswatpadhi.github.io
+repository: vsag96/vsag96.github.io
 permalink:  pretty
 
 title:      'Vineeth Sagar'
