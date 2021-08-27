@@ -11,10 +11,10 @@ title: Publications
 
 <div class='pure-g instructions'>
   <div class='pure-u-1-3'>
-    <a href='#' target='_blank'><i class='fas fa-fw fa-lg fa-user-graduate'></i> Google Scholar</a>
+    <a onclick='#' target='_blank'><i class='fas fa-fw fa-lg fa-user-graduate'></i> Google Scholar</a>
   </div>
   <div class='pure-u-1-3'>
-    <a href='#' target='_blank'><i class='fas fa-fw fa-lg fa-book'></i> DBLP Entry</a>
+    <a onclick='#' target='_blank'><i class='fas fa-fw fa-lg fa-book'></i> DBLP Entry</a>
   </div>
   <div class='pure-u-1-3'>
     <a onclick='#'><i class='fab fa-fw fa-lg fa-twitter'></i> Paper Summaries</a>
