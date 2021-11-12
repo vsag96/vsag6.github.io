@@ -26,7 +26,7 @@ target:
 links:
   PDF: '%BASE_URL%/assets/pdf/nimble21.pdf'
   Tool: ''
-  Slides: ''
+  Slides: '%BASE_URL%/assets/presentations/nimble.pptx'
 ---
 
 ###### Abstract
@@ -55,5 +55,18 @@ Tofino switch, and our new rate allocation algorithm reduces rate-limiter
 updates by a factor of 10x–24x and improves network utilization by 24%.
 
 ###### BibTeX Citation
-
-``` TBA ```
+```bibtex {% raw %}
+@inproceedings{10.1145/3482898.3483361,
+author = {Thapeta, Vineeth Sagar and Shinde, Komal and Malekpourshahraki, Mojtaba and Grassi, Darius and Vamanan, Balajee and Stephens, Brent E.},
+title = {Nimble: Scalable TCP-Friendly Programmable In-Network Rate-Limiting},
+year = {2021},
+isbn = {9781450390842},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3482898.3483361},
+ages = {27–40},
+numpages = {14},
+location = {Virtual Event, USA},
+series = {SOSR '21}
+}
+{% endraw %} ```
